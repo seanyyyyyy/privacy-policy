@@ -14,18 +14,18 @@ We build a system that tries to understand who you are and what you care about, 
 Fostering a positive, inclusive, and safe environment.
 We develop and use tools and offer resources to our community members that help to make their experiences positive and inclusive, including when we think they might need help. We work to combat abuse and violations of our Terms and policies, as well as harmful and deceptive behavior. We use all the information we have-including your information-to try to keep our platform secure. We also may share information about misuse or harmful content with law enforcement.
 Connecting you with brands, products, and services in ways you care about.
-We use data from Hotspot and other seanyyyyyy Company Products, as well as from third-party partners, to show you ads, offers, and other sponsored content that we believe will be meaningful to you. And we try to make that content as relevant as all your other experiences on Hotspot.
+We use data from Hotspot as well as from third-party partners, to show you ads, offers, and other sponsored content that we believe will be meaningful to you. And we try to make that content as relevant as all your other experiences on Hotspot.
 
 How Our Service Is Funded
-Instead of paying to use Hotspot, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off the seanyyyyyy Company Products.
+Instead of paying to use Hotspot, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote.
 
 We show you relevant and useful ads without telling advertisers who you are. We don’t sell your personal data. We allow advertisers to tell us things like their business goal and the kind of audience they want to see their ads. We then show their ad to people who might be interested.
 
 You may see branded content on Hotspot posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this here.
 
 
-The Data Policy
-Providing our Service requires collecting and using your information. The Data Policy explains how we collect, use, and share information across the seanyyyyyy Products. It also explains the many ways you can control your information, including in the Hotspot Privacy and Security Settings. You must agree to the Data Policy to use Hotspot.
+Our Data Policy
+Providing our Service requires collecting and using your information. The Privacy Policy explains how we collect, use, and share information. It also explains the many ways you can control your information. You must agree to the Privacy Policy to use Hotspot.
 
 
 Your Commitments
