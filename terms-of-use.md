@@ -1,4 +1,5 @@
 Terms of Use
+
 Welcome to Hotspot!
 
 These Terms of Use (or “Terms”) govern your use of Hotspot, except where we expressly state that separate terms (and not these) apply, and provide information about the Hotspot Service (the “Service”), outlined below. When you create an Hotspot account or use Hotspot, you agree to these terms.
