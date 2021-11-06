@@ -1,3 +1,3 @@
-# Instagram verified
+# Account verified
 
 **Privacy Policy**
