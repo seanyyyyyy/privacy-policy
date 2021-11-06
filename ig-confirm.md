@@ -1,3 +1,1 @@
-# Account verified
-
-** Returning to app **
+Account verified
