@@ -1,3 +1,3 @@
 # Account verified
 
-**Privacy Policy**
+** Returning to app **
